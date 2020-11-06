@@ -1,0 +1,141 @@
+Hamlet: 
+	* does not appear on map 
+	* no church 
+	* less than 100 people
+	* best anyone gets out of a hamlet is limited information and a hot meal
+	* no inn, no general store, not much at all except a small gathering of 
+		people trying to live off the land however they can 
+Village: 
+	* Cultivates their own food 
+	* SMall number of farms, enough to provide for the village itself 
+	* Small local govt in the form of a single noble fam that owns the village
+	* Usually owned by the nearest larger settlement or nearby nobility
+	* Might exist to harvest an export 
+	* Some town guards - all volunteers and not well trained 
+	* No realistic guard to person ration - roughly 1:50 is how i roll 
+	* There is a church - religion doesnt have to make sense 
+	* Likely a small shop with general goods, however this shop is designed
+		to accomodate to the needs of the village and not passing 
+		adventurers, so there wont be much in terms of weapons or armor
+	* There will be, however, an off chance that a traveling merchant is 
+		present with 2 or 3 unique items for sale. Not always relevant 
+		to adventurers, however
+	* There will be one dude in charge of the village, known as "The Reeve," 
+		which denotes that he/she is the chief magistrate of the town
+		who basically collects taxes and writes letters through a 
+		personal assistant. The Reeve is not the owner of the Village, 
+		however, and is appointed to be the only person in direct 
+		communication with whatever entity owns the village
+	 * Town populations will consist of farmers, religious workers, and 
+		craftsmen who are just skilled enough to get the job done. You'll 
+		be hard pressed to find a true artisan living in a village
+Town: 
+	* Typically a town forms after a village begins to produce a rare good
+		and has an excess of it. This results in people coming in from 
+		far and wide to trade... or to raid. 
+	* A Town becomes a town once the population exceeds 3000 townsfolk
+	* All towns are large trade centers, at LEAST and have at least ONE 
+		trade route connected to the nearest large city and have typically
+		several connections to other settlements via trade routes
+	* Has several taverns, inns, and shops to compensate for a surplus of 
+		foreigners and merchants 
+	* towns recieve a wide variety of goods, such as salted meats, grains, 
+		lumber, common and precious metals and ingots
+	* As there is a lot of trade in Towns, there are equally as many 
+		talented craftsmen. As a result, most towns have some form of 
+		guild system in which artisans take on apprentices and have a 
+		lot more authority than what youd find in a village
+	* Typically, a corresponding guild will run the trade of any imported 
+		or exported good. For instance, the guild of smiths handles 
+		all trade related to metals. 
+	* Governmental structure is more prominent and a far less loose system 
+		of law will be implemented as too many people are running around
+		at this point. In addition to the owning entity of the town and 
+		its appointed overseer (reeve), the town will also have elected 
+		a council of representatives. Commonly, this council will either 
+		be heavily involved in trade (senior guild officials comprise the
+		council) or heavily involved in the church (council comprised 
+		mostly of religious elders) 
+	* There are more guards as well, who are far better trained and not 
+		volunteers. 
+	* The presence of the church will be much larger in a town, and towns are 
+		large enough where adventurers will begin to see 2, sometimes 3 
+		religions represented through churches much larger than what youd 
+		find in a village 
+	* A note: guilds, government, and church never exist harmoniously and 
+		it is expected to arrive in a town with a similar political 
+		climate - when the god's will isnt heeded, when the law isnt 
+		followed, or when goods are stolen these three are quick to 
+		point fingers and assign blame to eachother. 
+	* Layout 
+		- Somewhere just beyond the Outskirts or a nearby city: a place where 
+			the noble/owner of the town resides
+		- Outskirts: this is where massive amounts of resources are collected
+			and split up by roads that lead inside. Farms/mines are 
+			common here. 
+		- Further In: this is where merchants have housing, a medley of 
+			inns and taverns for travelers to rest. Somewhere nearby
+			to these is the trade center.
+		- Trade Center: this is ran and owned exclusively by guilds, and 
+			will sometimes have open market days for travelling vendors. 
+			All basic needs can be met here. The number of specialists 
+			is at least double compared to a village. Certain towns 
+			will also offer hirelings, slaves, or even a red light 
+			district 
+		- Temples should be scattered about this town 
+		- Center: this is where you will find town hall - this is where 
+			taxes are collected and laws are written. 
+		- Guards: more devoted, better paid and actuallly trained, 
+			problem areas will be patrolled (such as market, tavern, 
+			inns, temples, and central districts) 
+City: if you packed 3 to 8 towns together, youd get a city. 
+	* between 6,000 and 25,000 residents
+	* these are typically the hears of kingdoms and have a wiiide offering 
+		of experiences for any traveler
+	* cities are comprised of layers. Everything exists in layers here.
+	* in the center of the city is where the old town used to be, and 
+		every time an expansion occurs, a new layer is built, which 
+		also means new walls are built and the city shifts as a whole. 
+		A long lived city, when viewed from above, looks like a cut 
+		out treetrunk with districts showing its age. 
+	* almost any good or service is available - in fact, the city is where
+		we will see the most "hold" a guild can have on a governing 
+		body. In cities, even perfected trade of the rarest goods is 
+		available, and guilds know their true value in this stage of 
+		civilization. At this point, guilds split into two major 
+		groups: the merchants guild and the crafters guild, who 
+		work together to monopolize their respective craft, but truly 
+		it is the craftsman that rules over trade, as they set the 
+		standard for the quality of good that is being traded. The 
+		city is where we will begin to see things like magic shops, 
+		herb shops, trinket sellers, weapons dealers, potion shops, 
+		book stores, pawn shops, tailors, pet stores, jewellery shops, 
+		trap crafters, toy shops, artisan blacksmiths, armor salesmen, 
+		pharmacies, shitloads of cobblers and general goods
+	* instead of one noble now exists a circle of lords and ladies, each 
+		vying for more power than their peers 
+	* cities all have their own military and guard network, and barracks
+		are well established and evenly spread through the city. Just 
+		like politics, guards have more power in a city and there 
+		will always be enough militaristic strength on hand to wage 
+		war when needed. 
+	* laws are rigidly implemented, with courthouses for hearings making 
+		their first appearances at this scale. In the same manner, 
+		at least one well kept prison will exist. 
+	* Temples/Cathedrals are massive in cities, and are most likely the 
+		epicenters of their respective religions. Powerful clerics and 
+		paladins collect here to pay homage to their respective gods. 
+	* Massive housing districts exist to house all the commonfolk, and it
+		is even common to see entirely abandoned districts home to 
+		shady individuals and shadier dealings 
+	
+Kingdom/Nations: 
+	* no longer defined by population, rather this is an interconnected 
+	series of towns, villages, and cities... and hamlets technically 
+	but they arent even featured on maps.
+	* all settlements in this network are under one rule
+	*kingdoms often led by 1 to 2 cities. 
+	* one single noble rules an entire kingdom
+	 
+		 
+		
