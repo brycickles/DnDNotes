@@ -5,18 +5,20 @@ Family/Friends:
 	for Trax and believes he is destined for greatness in some way, however
 	is also disappointed in Trax for not taking religion and his role in 
 	the circle seriously. 
-	* MOTHERFIGURE: "Mawmaw" is the village midwife and helps raise the children of the 
-	circle. She was the one to raise Trax and is the equivalent of his 
-	mother. She was called away to duty when he was very young and she 
-	never returned. 
+	* MOTHER: silver eyes, tattoos similar to Trax
+		*She was called away to duty when he was very young and she 
+			never returned. 
 		* MAYBE USE A REUNION BETWEEN THE TWO TO START THE CAMPAIGN 
-		* MAWMAW is actually some form of double agent, only to be revealed 
+		* Mother is actually some form of double agent, only to be revealed 
 			much later on in the story? 
 		*The circle will periodically send groups of druids to scout and or 
 		deal with any corruption or major problems involving nature 
-		particularly with the Forrest surrounding them, and MawMaw has
+		particularly with the Forrest surrounding them, and Mother has
 		had to work in secret since Trax last saw her. Her role is 
-		far greater than simply that of a circle midwife. 
+		far greater than what Trax, or anyone outside the circle of elders knows. 
+	* MOTHERFIGURE: "Mawmaw" is the village midwife and helps raise the children of the 
+	circle. She was the one to raise Trax and is the equivalent of his 
+	mother. 
 	* SIBLING: Trax also has a younger sister that was left behind when Trax left the 
 	village and has not seen her since. She was mastering wild shift and 
 	learning restorative spells when he left. 
@@ -30,4 +32,13 @@ Family/Friends:
 Notables: 
 	Trax has lost his magical staff that turns into a tree and is on a quest 
 	to search for it. 
+		* this staff also allows trax to grow trees, shrubs, and vines at a target location
+		* staff also stores one level 3 or lower druid spell as a daily charge
+		* staff was given to Trax by his mother, handed down from parent to child in 
+			his family for generations. It will turn into a tree for anyone, though
+			few would understand how to, but in the hands of its familiar owners 
+		* Trax's great great grandfather created the staff and it will have the
+			powers listed above when wielded by a blood descendent of Trax's great 
+			great grandfather. 
+
 	
